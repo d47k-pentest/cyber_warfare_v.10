@@ -17,7 +17,7 @@
 ## Type of Social Engineering Attack
 
 
-![Type of Social Engineering](../photos/socialEngineering.jpg)
+![Type of Social Engineering](./photos/socialEngineering.jpg)
 
 ## Phishing
 

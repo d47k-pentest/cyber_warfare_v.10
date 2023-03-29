@@ -1,0 +1,36 @@
+transposition  goolge.com     142.250.191.132 2607:f8b0:4009:818::2004 NS:ns1.google.com MX:
+transposition  gogole.com     142.250.191.228 NS:ns1.google.com
+transposition  googel.com     172.217.5.4 2607:f8b0:4009:807::2004 NS:ns1.google.com MX:
+transposition  ogogle.com     2607:f8b0:4009:818::2004 NS:ns1.google.com MX:
+various        googlecom.com  142.250.191.164 NS:ns1.google.com MX:
+vowel-swap     gaogle.com     107.180.51.12 NS:ns25.domaincontrol.com MX:mail.gaogle.com
+vowel-swap     googli.com     162.255.119.253 NS:freedns1.registrar-servers.com
+vowel-swap     guogle.com     64.190.63.111 NS:ns1.sedoparking.com
+vowel-swap     geogle.com     78.41.204.29 NS:ns1.torresdns.com MX:mail.h-email.net
+vowel-swap     goagle.com     89.145.66.234 NS:ns1.netnames.net MX:relay1.netnames.net
+vowel-swap     goegle.com     NS:ns1.abovedomains.com MX:park-mx.above.com
+vowel-swap     googlo.com     -
+vowel-swap     gougle.com     NS:ns1.googledomains.com
+insertion      gooigle.com    NS:ns1.googledomains.com
+insertion      goolgle.com    NS:ns1.google.com
+insertion      gootgle.com    -
+insertion      goovgle.com    NS:ns1.dnsowl.com
+insertion      gooygle.com    NS:ns1.googledomains.com
+omission       oogle.com      104.21.19.57 2606:4700:3032::ac43:b945 NS:amir.ns.cloudflare.com MX:mx.zoho.com
+omission       gogle.com      142.250.190.100 NS:ns1.google.com MX:
+omission       googe.com      162.243.10.151 NS:ns1.hsicell.com
+omission       goole.com      217.160.0.201 NS:ns1083.ui-dns.biz MX:mx00.1and1.co.uk
+omission       googl.com      2607:f8b0:4009:805::2004 NS:ns1.google.com
+repetition     gooogle.com    142.250.190.36 2607:f8b0:4009:809::2004 NS:ns1.google.com MX:
+addition       googlev.com    NS:ns1.googledomains.com
+addition       googlex.com    -
+addition       googlez.com    -
+bitsquatting   googlm.com     123.1.194.2 NS:f1g1ns1.dnspod.net
+bitsquatting   goofle.com     162.210.199.87 NS:ns1.koaladns.com
+bitsquatting   googhe.com     199.59.243.223 NS:ns1.bodis.com
+bitsquatting   goowle.com     207.244.67.215
+bitsquatting   coogle.com     NS:ns1.googledomains.com
+bitsquatting   eoogle.com     NS:ns1.googledomains.com
+bitsquatting   foogle.com     NS:ns1.dreamhost.com MX:ALT1.ASPMX.L.GOOGLE.com
+bitsquatting   ggogle.com     NS:ns1.googledomains.com
+bitsquatting   gkogle.com     NS:ns1.googledomains.com
